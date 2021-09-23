@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1620643157 source:c:\users\administrator\desktop\contra 0.1\anh.cpp
+	"anh.h"
+
+1620636057 c:\users\administrator\desktop\contra 0.1\anh.h
+	"chung.h"
+
+1620767791 c:\users\administrator\desktop\contra 0.1\chung.h
+	<windows.h>
+	<string>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1620647899 source:c:\users\administrator\desktop\contra 0.1\chung.cpp
+	"chung.h"
+
+1620796205 source:c:\users\administrator\desktop\contra 0.1\main.cpp
+	"chung.h"
+	"anh.h"
+	"map.h"
+	"nhanvat.h"
+	"quai.h"
+	"boss.h"
+	"no.h"
+	"chu.h"
+	"ve.h"
+	"fps.h"
+
+1620490026 source:c:\users\administrator\desktop\contra 0.1\map.cpp
+	"map.h"
+
+1620643443 c:\users\administrator\desktop\contra 0.1\map.h
+	"chung.h"
+	"anh.h"
+
+1620792307 c:\users\administrator\desktop\contra 0.1\nhanvat.h
+	"chung.h"
+	"anh.h"
+	"dan.h"
+	"bom.h"
+	"mang.h"
+	"no.h"
+
+1620796623 source:c:\users\administrator\desktop\contra 0.1\nhanvat.cpp
+	"nhanvat.h"
+
+1620647572 source:c:\users\administrator\desktop\contra 0.1\fps.cpp
+	"fps.h"
+
+1620647547 c:\users\administrator\desktop\contra 0.1\fps.h
+	"chung.h"
+
+1620795739 source:c:\users\administrator\desktop\contra 0.1\dan.cpp
+	"dan.h"
+
+1620795685 c:\users\administrator\desktop\contra 0.1\dan.h
+	"chung.h"
+	"anh.h"
+
+1620792831 c:\users\administrator\desktop\contra 0.1\quai.h
+	"chung.h"
+	"anh.h"
+	"dan.h"
+
+1620795709 source:c:\users\administrator\desktop\contra 0.1\quai.cpp
+	"quai.h"
+
+1620748925 c:\users\administrator\desktop\contra 0.1\no.h
+	"chung.h"
+	"anh.h"
+
+1620748925 source:c:\users\administrator\desktop\contra 0.1\no.cpp
+	"no.h"
+
+1620629045 source:c:\users\administrator\desktop\contra 0.1\chu.cpp
+	"chu.h"
+
+1620628864 c:\users\administrator\desktop\contra 0.1\chu.h
+	"chung.h"
+
+1620631858 source:c:\users\administrator\desktop\contra 0.1\mang.cpp
+	"mang.h"
+
+1620661455 c:\users\administrator\desktop\contra 0.1\mang.h
+	"chung.h"
+	"anh.h"
+
+1620636410 c:\users\administrator\desktop\contra 0.1\ve.h
+	"chung.h"
+
+1620636420 source:c:\users\administrator\desktop\contra 0.1\ve.cpp
+	"ve.h"
+
+1620795334 c:\users\administrator\desktop\contra 0.1\boss.h
+	"chung.h"
+	"anh.h"
+	"dan.h"
+	"no.h"
+
+1620796599 source:c:\users\administrator\desktop\contra 0.1\boss.cpp
+	"boss.h"
+
+1620790996 source:c:\users\administrator\desktop\contra 0.1\bom.cpp
+	"bom.h"
+
+1620790996 c:\users\administrator\desktop\contra 0.1\bom.h
+	"chung.h"
+	"anh.h"
+
